@@ -18,7 +18,7 @@ It is coded in R version 4.1.0 (2021-05-18).
 
 
 ### Input 
-1. Tissue-specific gene expression profile (Our imputation targets)
+1. Tissue-specific gene expression profile (imputation target)
 * A dataset contains the expression level of all the genes obtained from a tissue of interest (e.g. Muscle Skeletal, Brain Frontal Cortex, etc).
 * The input/GTEx_v7 directory must contain the 47 datasets of transcriptome profile corresponding to each of the 47 human tissues.
 * Each dataset must be saved in the .Rdata format and named after the corresponding tissue (e.g. Brain_FrontalCortex.Rdata contains the transcriptome profile for Brain Frontal Cortex tissue).
