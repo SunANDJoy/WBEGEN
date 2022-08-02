@@ -43,6 +43,6 @@ The three directories (GTEx_v7, WBE_datasets, and WBE_datasets) containing the a
 
 ### Output 
 1. The summary of the gene expression imputation results across the 47 human tissues (output.Rdata).
-2. For the metric of imputation accuracy, we used Mean R^2 (mean of R^2 between true expression level and imputed expression level over all available genes belonging to each tissue)
-3. Imputation accuracy for two standalone models (GEN and WBE) and two combined models (MERGED and IVW) are provided.
-4. Proportions of genes for which each combined model was applied are also provided.
+* For the metric of imputation accuracy, we used Mean R^2 (mean of R^2 between true expression level and imputed expression level over all available genes belonging to each tissue)
+* Imputation accuracy for two standalone models (GEN and WBE) and two combined models (MERGED and IVW) are provided.
+* Proportions of genes for which each combined model was applied are also provided.
