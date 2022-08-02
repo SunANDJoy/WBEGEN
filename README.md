@@ -36,7 +36,7 @@ It is coded in R version 4.1.0 (2021-05-18).
 4. Input information (input_info.Rdata)
 * The file contains a list of the 47 human tissues and the sets of sample IDs for the training, validation, and test set.
 * To ensure the consistency of the results, we defined the components for the training, validation, and test set in advance.
-* We provide The input_info.Rdata file in this repository.
+* We provide the input_info.Rdata file in this repository.
 <br/>
 The three directories (GTEx_v7, WBE_datasets, and WBE_datasets) containing the appropriate datasets and one file (input_info.Rdata) must be present in the 'input' directory in order to run the code.
 
