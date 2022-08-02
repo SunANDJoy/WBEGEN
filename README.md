@@ -1,4 +1,4 @@
-# combinedImputeGEX
+# Imputation of Gene Expression using the Genotype and Whole Blood Transcriptome 
 Code used to impute tissue-specific gene expression level using genotype and whole blood transcriptome data as predictors.
 
 
