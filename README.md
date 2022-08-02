@@ -34,7 +34,7 @@ It is coded in R version 4.1.0 (2021-05-18).
 * Each dataset must be saved in the .Rdata format and named after the corresponding gene (e.g. ENSG00000089022.Rdata contains the genotype information of cis-SNPs located around the ENSG00000089022 gene).
 * The rows must represent samples, while the columns must represent SNPs.
 4. Input information (input_info.Rdata)
-* A file contains a list of the 47 human tissues and the sets of sample IDs for the training, validation, and test set.
+* The file contains a list of the 47 human tissues and the sets of sample IDs for the training, validation, and test set.
 * To ensure the consistency of the results, we defined the components for the training, validation, and test set in advance.
 * We provide The input_info.Rdata file in this repository.
 <br/>
@@ -42,4 +42,7 @@ The three directories (GTEx_v7, WBE_datasets, and WBE_datasets) containing the a
 
 
 ### Output 
-1. 
+1. The summary of the gene expression imputation results across the 47 human tissues (output.Rdata).
+2. For the metric of imputation accuracy, we used Mean R^2 (mean of R^2 between true expression level and imputed expression level over all available genes belonging to each tissue)
+3. Imputation accuracy for two standalone models (GEN and WBE) and two combined models (MERGED and IVW) are provided.
+4. Proportions of genes for which each combined model was applied are also provided.
