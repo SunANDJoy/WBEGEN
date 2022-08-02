@@ -1,5 +1,5 @@
 # combinedImputeGEX
-Code used to impute tissue-specific gene expression level using genotype and whole blood expression as predictors.
+Code used to impute tissue-specific gene expression level using genotype and whole blood transcriptome data as predictors.
 
 
 ## Notice
