@@ -38,7 +38,7 @@ It is coded in R version 4.1.0 (2021-05-18).
 * To ensure the consistency of the results, we defined the components for the training, validation, and test set in advance.
 * We provide the input_info.Rdata file in this repository.
 <br/>
-The three directories (GTEx_v7, WBE_datasets, and WBE_datasets) containing the appropriate datasets and one file (input_info.Rdata) must be present in the 'input' directory in order to run the code.
+The three directories (GTEx_v7, WBE_datasets, and Genotype_datasets) containing the appropriate datasets and one file (input_info.Rdata) must be present in the 'input' directory in order to run the code.
 
 
 ### Output 
