@@ -329,7 +329,7 @@ GEX_impute = function(t){
 
 load(dirs$input_info)
 cat('Tissue-specific gene expression imputation using Genotype and WBE as predictors begins ... ...\n\n\n')
-result.summary <- t(sapply(tissues[46:47], FUN = GEX_impute))
+result.summary <- t(sapply(tissues, FUN = GEX_impute))
 cat('Completed ... ...\n\n\n\n')
 print(result.summary)
 
