@@ -30,7 +30,7 @@ It is coded in R version 4.1.0 (2021-05-18).
 * The rows must represent samples, while the columns must represent genes.
 3. Genotype information
 * A dataset contains the genotype information of cis-SNPS located around a target gene.
-* The directory input/WBE_datasets must contain a number of datasets as many as the number of all available genes present in all 47 tissues.
+* The directory input/WBE_datasets must contain as many datasets as there are genes present in the 47 tissues.
 * Each dataset must be saved in the .Rdata format and named after the corresponding gene (e.g. ENSG00000089022.Rdata contains the genotype information of cis-SNPs located around the ENSG00000089022 gene).
 * The rows must represent samples, while the columns must represent SNPs.
 4. Input information (input_info.Rdata)
