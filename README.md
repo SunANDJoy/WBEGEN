@@ -19,7 +19,7 @@
 - _access_models.ipynb_ contains the guideline for accessing and exploring the imputation models.
 - Below is our recommended instruction 
 ```
-1. Locate the imputaion model file (Here: _Adipose Subcutaneous.Rdata_) and _access_models.ipynb_ in the same directory.
+1. Locate the imputaion model file (Here: Adipose Subcutaneous.Rdata) and _access_models.ipynb_ in the same directory.
 2. Run the jupyter notebook and follow the codes.
 ```
 - No version dependency is required.
