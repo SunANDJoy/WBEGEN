@@ -15,7 +15,7 @@
 
 
 ## Instruction
-- We uploaded the jupyter notebook code named _access_models.ipynb along with the .Rdata file of the imputation models.
+- We uploaded the jupyter notebook code named _access_models.ipynb_ along with the .Rdata file of the imputation models.
 - _access_models.ipynb_ contains the guideline for accessing and exploring the imputation models.
 - Below is our recommended instruction 
 ```
