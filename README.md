@@ -11,6 +11,16 @@
 - Using MERGED_flexible method We generated the imputation models for 47 human tissues.
 - We were unable to release our impuation models for all 47 tissues due to the file size limit of Github repository.
 - For now, we released the imputation models for _Adipose Subcutaneous (Rdata file; 717.2MB)_ in this repository.
+- Upon request, we will be glad to share all of our models with readers of our study.
 
 
 ## Instruction
+- We uploaded the jupyter notebook code named _access_models.ipynb along with the .Rdata file of the imputation models.
+- _access_models.ipynb_ contains the guideline for accessing and exploring the imputation models.
+- Below is our recommended instruction 
+```
+1. Locate the imputaion model file (Here: _Adipose Subcutaneous.Rdata_) and _access_models.ipynb_ in the same directory.
+2. Run the jupyter notebook and follow the codes.
+```
+- No version dependency is required.
+- No need to import additional R functions.
