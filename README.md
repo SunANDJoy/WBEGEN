@@ -8,7 +8,7 @@
 
 ## Notice
 - The purpose of this repository is to release the imputation models we generated using MERGED_flexible method for reproducility and transparency of our study.
-- Using MERGED_flexible method We generated the imputation models for 47 human tissues.
+- Using MERGED_flexible method, we generated the imputation models for 47 human tissues.
 - We were unable to release our impuation models for all 47 tissues due to the file size limit of Github repository.
 - For now, we released the imputation models for _Adipose Subcutaneous (Rdata file; 717.2MB)_ in this repository.
 - Upon request, we will be glad to share all of our models with readers of our study.
