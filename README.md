@@ -15,9 +15,9 @@
 
 
 ## Instruction
-- We uploaded the jupyter notebook code named _access_models.ipynb_ along with the .Rdata file of the imputation models.
-- _access_models.ipynb_ contains the guideline for accessing and exploring the imputation models.
-- Below is our recommended instruction 
+- We uploaded the jupyter notebook code named _access_models.ipynb_ along with the _Adipose Subcutaneous.Rdata_ file.
+- _access_models.ipynb_ is the R based jupyter notebook and contains the guideline for accessing and exploring the imputation models generated using MERGED_flexible method.
+- Below is our recommended instruction .
 ```
 1. Locate the imputaion model file (Here: Adipose Subcutaneous.Rdata) and access_models.ipynb in the same directory.
 2. Run the jupyter notebook and follow the codes.
