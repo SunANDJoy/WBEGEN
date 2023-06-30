@@ -10,7 +10,7 @@
 - The purpose of this repository is to provide instructions on how to access and explore the imputation models we generated using MERGED_fixed_100, for reproducility and transparency of our study.
 - Using MERGED_fixed_100, we generated the imputation models for 47 human tissues.
 - Due to the file size limit of GitHub, we uploaded the imputation models for 45 tissues to our ZENODO repository (https://doi.org/10.5281/zenodo.8079207).
-- The models for _Skin_NotSunExposed_ and _Skin_SunExposed_ were omitted, since ZENODO also has the file size limit (50GB).
+- The models for _Skin Not Sun Exposed_ and _Skin Sun Exposed_ were omitted, since ZENODO also has the file size limit (50GB). We will be glad to share these omitted files with interested readers upon request.
 - Here, we provide sample models to make it easier for users to follow the instructions. 
 
 
